@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @furwee
 - 👀 I’m interested in cars, art especially pixel art
 - 🌱 I’m currently learning coding for no reason
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Furwee (discord)
-- ⚡ Fun fact: i removed the pronoun part because who cares about that
+- ⚡ Fun fact: i am a college student
 
 <!---
 furwee/furwee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
