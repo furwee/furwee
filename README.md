@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furwee
-- 👀 I’m interested in cars, art especially pixel art
+- 👀 I’m interested in cars and art especially pixel art (thanks to pixel car racer)  
 - 🌱 I’m currently learning coding for no reason but i am liking it
 - 📫 How to reach me: email: lokhim0711@gmail.com ; discord: furwee
 - ⚡ Fun fact: i am trying to make my own 1:10 RC car!
